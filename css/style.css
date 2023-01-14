@@ -17,8 +17,92 @@
     margin-top: 130px;
     font-size: 30px;
     display: flex;
+    /* flex-wrap: wrap; */
+    columns: auto;
+    justify-content: space-between;
     justify-content: center;
     color: rgb(39, 237, 121);
-    /* background-color: rgb(1, 43, 1);
-    filter: blur(5px); */
+    /* padding: 200px 400px auto 100px; */
+   
+}
+
+.name{
+    width: 200px;
+    /* border: 2px solid red; */
+    font-size: 15px;
+    gap: 10px;
+   margin-top: 100px;
+  align-items: center;
+}
+.mail{
+    width: 200px;
+    /* border: 2px solid red; */
+    font-size: 15px;
+    gap: 10px;
+    align-items: center;
+    margin-top: 20px;
+   
+}
+.chekbox{
+    width: 200px;
+    /* border: 2px solid red; */
+    font-size: 15px;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+}
+.date{
+    width: 180px;
+    /* border: 2px solid red; */
+   font-size: 15px;
+    gap: 20px;
+    align-items: center; 
+    margin-top: 15px;
+}
+.country{
+    width: 200px;
+    /* border: 2px solid red; */
+    font-size: 15px;
+    gap: 20px;
+    align-items: center;
+    margin-top: 15px;  
+}
+.three{
+    width: 200px;
+    /* border: 2px solid red; */
+    font-size: 10px;
+    gap: 20px;
+    align-items: center; 
+    margin-top: 15px;
+}
+.two{
+    display: flex;
+    gap: 10px;
+    
+}
+input[type=reset]{
+    border: none;
+    background-color: red;
+    border-radius: 5px;
+}
+input[type=submit]{
+    border: none;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+input[type=text]{
+    border: none;
+    border-bottom: 4px solid green;
+}
+input[type=mail]{
+    border: none;
+   border-bottom: 4px solid green;
+}
+input[type=date]{
+    border: none;
+    border-bottom: 4px solid green;
+}
+select{
+   
+    border-bottom: 4px solid green;
 }
