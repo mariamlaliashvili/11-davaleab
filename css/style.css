@@ -1,0 +1,24 @@
+.conteiner{
+    max-width: 1366px;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    border: 2px solid red;
+    background-image: url(../34053e57f04571b79d11e1f25392bce1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+   
+}
+.first{
+    width: 40%;
+    height: 500px;
+    border: 3px solid red;
+    margin: 0 auto;
+    margin-top: 130px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: rgb(39, 237, 121);
+    /* background-color: rgb(1, 43, 1);
+    filter: blur(5px); */
+}
