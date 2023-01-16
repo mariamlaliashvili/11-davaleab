@@ -57,14 +57,7 @@ h1{
     color: white; 
    
 }
-.chekbox{
-    width: 200px;
-    font-size: 15px;
-    gap: 20px;
-    align-items: center;
-    margin-top: 20px;
-    color: white; 
-}
+
 .date{
     width: 180px;
    font-size: 15px;
@@ -81,14 +74,7 @@ h1{
     margin-top: 15px; 
     color: white; 
 }
-.three{
-    width: 200px;
-    font-size: 10px;
-    gap: 20px;
-    align-items: center; 
-    margin-top: 15px;
-    color: white; 
-}
+
 .two{
     display: flex;
     gap: 10px;
