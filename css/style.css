@@ -18,14 +18,7 @@
     justify-content: center;
     margin: 100px auto auto auto;
     background-color: rgb(0, 100, 0, .5);
-    /* margin: 0 auto;
-    margin-top: 130px;
-    font-size: 30px;
-    display: flex;
-    justify-content: space-between;
-    justify-content: center;
-    color: rgb(39, 237, 121);
-    background-color: rgb(20, 55, 20, .5); */
+    
    
 }
 h1{
@@ -34,14 +27,12 @@ h1{
     height: 50px;
     color: white;
    margin-left: 50px;
-   /* text-align: center; */
    margin-top: 40px;
    /* border: 2px solid red; */
 }
 .name{
     width: 200px;
     height: 40px;
-    /* border: 2px solid red; */
     font-size: 15px;
     gap: 10px;
     margin: 0 60px auto auto;
